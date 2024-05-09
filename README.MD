@@ -9,7 +9,7 @@
 # To Run
 ## Clone Project
 ```bash
-git clone https://github.com/AliMortezaei/ParvazAcademy.git
+git clone https://github.com/AliMortezaei/pokemon-challenge.git
 ```
 ### Install Dependencies through pip package manager
 ```bash
