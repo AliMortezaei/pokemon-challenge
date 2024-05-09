@@ -1,0 +1,12 @@
+{
+  "electric": 1,
+  "fire": 3,
+  "flying": 2,
+  "grass": 2,
+  "ground": 3,
+  "ice": 1,
+  "normal": 2,
+  "poison": 2,
+  "rock": 1,
+  "water": 3
+}
